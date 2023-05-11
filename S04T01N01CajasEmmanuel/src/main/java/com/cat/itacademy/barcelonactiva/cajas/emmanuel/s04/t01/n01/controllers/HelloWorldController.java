@@ -1,7 +1,10 @@
-package cat.itacademy.barcelonactiva.apellidos.nom.s04.t01.controllers;
+package com.cat.itacademy.barcelonactiva.cajas.emmanuel.s04.t01.n01.controllers;
 
 
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class HelloWorldController {

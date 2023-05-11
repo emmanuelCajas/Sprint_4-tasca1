@@ -8,11 +8,11 @@
 		<version>3.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cat.itacademy.barcelonactiva.apellidos.nom.s04.t01.n01</groupId>
-	<artifactId>S04T01N01GognomosNom</artifactId>
+	<groupId>com.cat.itacademy.barcelonactiva.cajas.emmanuel.s04.t01.n01</groupId>
+	<artifactId>S04T01N01CajasEmmanuel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>S04T01N01GognomosNom</name>
-	<description>Sprint4.tasca1.N1.ejercicio1</description>
+	<name>S04T01N01CajasEmmanuel</name>
+	<description>S04T01N01CajasEmmanuel</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
